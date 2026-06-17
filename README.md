@@ -7,3 +7,4 @@
 | Padrón | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
 | 110929 | Chahuillco, Aleksey | 11/06/26 | Semana 06 |
+| 110722 | Martín, Andrés Mauricio | 11/06/26 | Semana 06 |
